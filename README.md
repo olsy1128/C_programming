@@ -1,1 +1,2 @@
-# C_sy
+# C_programming
+# second semester
