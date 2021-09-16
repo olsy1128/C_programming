@@ -4,10 +4,10 @@ abc
 
 #include <stdio.h>
 
-int main() //main ÇÔ¼öÀÇ ½ÃÀÛ
+int main() //main í•¨ìˆ˜ì˜ ì‹œì‘
 {
-	printf("CÇÁ·Î±×·¡¹Ö 2ÁÖÂ÷ °úÁ¦\n");
-	printf("ÀÌ¸§: ÀÌ¼­¿¬\n");
-	printf("ÇĞ¹ø:%d",202110963);
+	printf("Cí”„ë¡œê·¸ë˜ë° 2ì£¼ì°¨ ê³¼ì œ\n");
+	printf("ì´ë¦„: ì´ì„œì—°\n");
+	printf("í•™ë²ˆ:%d",);
 	return 0;
 }
