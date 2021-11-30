@@ -19,6 +19,7 @@ int main()
         fptr++;
         bptr++;
     }
+    
     printf("after swap \n");
     printf("arr1: %d %d %d %d %d %d \n", arr1[0], arr1[1], arr1[2], arr1[3], arr1[4], arr1[5]);
     printf("arr2: %d %d %d %d %d %d \n", arr2[0], arr2[1], arr2[2], arr2[3], arr2[4], arr2[5]);

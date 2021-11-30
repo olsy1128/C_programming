@@ -17,7 +17,7 @@ float calculateSD(float number[])
     return sqrt(SD / 5);
 }
 
-int main(void)
+int main()
 {
     int i;
     float number[5];

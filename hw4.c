@@ -2,7 +2,7 @@
 
 int ToBinary(int num);
 
-int main(void)
+int main()
 {
     int num;
     printf("Please enter a number: ");
