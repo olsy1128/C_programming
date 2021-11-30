@@ -7,5 +7,5 @@ int main(void)
 	printf("Please enter kilometers: ");
 	scanf("%f", &kilometers);
 	mile = kilometers / 1.609;
-	printf("%.1f km is equal to %.1f miles.", kilometers, mile);
+	printf("%.1f km is equal to %.1f miles. \n", kilometers, mile);
 }
